@@ -1,0 +1,13 @@
+name = "AsteorBar"
+filename = "asteorbar-fabric-1.20.1-1.4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf0f667ec781827e54ad22e23365bc9dee26533e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5501220
+project-id = 959237

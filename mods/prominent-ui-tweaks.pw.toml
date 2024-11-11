@@ -1,0 +1,13 @@
+name = "Prominent UI Tweaks"
+filename = "Prominent_UI-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "98a670e823eda3e29d4cf7d299addc782dc9ff34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4850468
+project-id = 934919

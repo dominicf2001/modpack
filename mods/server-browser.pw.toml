@@ -1,0 +1,13 @@
+name = "Server Browser [Fabric/Forge]"
+filename = "ServerBrowser-1.20.1-FABRIC-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eed242e50579f4a2baed34fc09437686a72de1bf"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5263584
+project-id = 825617

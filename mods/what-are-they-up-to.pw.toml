@@ -1,0 +1,13 @@
+name = "What Are They Up To (Watut)"
+filename = "watut-fabric-1.20.1-1.0.12.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ed4bbc6c27b918b5309a872f9869d2d5bfee6c0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4989897
+project-id = 945479

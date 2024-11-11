@@ -1,0 +1,13 @@
+name = "Ashen Simple Foliage"
+filename = "Ashen_Simple_Foliage.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fe10694b3d5bf901bb47d0aecaf275e99041ec3b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5458053
+project-id = 1028456

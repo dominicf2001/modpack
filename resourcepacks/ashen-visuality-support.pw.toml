@@ -1,0 +1,13 @@
+name = "Ashen + Visuality Support"
+filename = "Ashen_Visuality_Support_1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "971ab07689bb96ad8e3ac5d9b00ebaf549790732"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5691048
+project-id = 1096521

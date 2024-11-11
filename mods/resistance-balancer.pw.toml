@@ -1,0 +1,13 @@
+name = "Resistance Balancer"
+filename = "ResistanceBalancer-FABRIC-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9e8ffc636e5579517b0ae604a7a4f686aa2e5e48"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5810498
+project-id = 1121234
